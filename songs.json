@@ -1,0 +1,22 @@
+[
+  {
+    "id": "harlan-rhodes-pain",
+    "num": "01",
+    "title": "PAIN",
+    "artist": "Harlan Rhodes",
+    "album": "Ashes and Rain",
+    "trackNumber": 1,
+    "albumOrder": 1,
+    "albumCover": "https://raw.githubusercontent.com/stevep999/harlan-rhodes/main/images/covers/harlan-rhodes-ashes-and-rain-ALBUM-cover.png",
+    "type": "single",
+    "isLatest": true,
+    "cover": "https://raw.githubusercontent.com/stevep999/harlan-rhodes/main/images/covers/harlan-rhodes-pain-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/splb0tlcd7e2puzid5vdc/harlan-rhodes-pain-mp3.mp3?rlkey=v69cvbfw4xpqvr1nzkzm3nisl&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/splb0tlcd7e2puzid5vdc/harlan-rhodes-pain-mp3.mp3?rlkey=v69cvbfw4xpqvr1nzkzm3nisl&raw=1",
+    "videos": [],
+    "includeOnRadio": true,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": []
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "artist": "Harlan Rhodes",
+  "latestUrl": "latest.json",
+  "featuredTrack": {
+    "title": "PAIN",
+    "artist": "Harlan Rhodes",
+    "album": "Ashes and Rain",
+    "cover": "https://raw.githubusercontent.com/stevep999/harlan-rhodes/main/images/covers/harlan-rhodes-pain-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/splb0tlcd7e2puzid5vdc/harlan-rhodes-pain-mp3.mp3?rlkey=v69cvbfw4xpqvr1nzkzm3nisl&raw=1",
+    "videos": []
+  },
+  "tracks": [
+    {
+      "title": "PAIN",
+      "artist": "Harlan Rhodes",
+      "album": "Ashes and Rain",
+      "cover": "https://raw.githubusercontent.com/stevep999/harlan-rhodes/main/images/covers/harlan-rhodes-pain-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/splb0tlcd7e2puzid5vdc/harlan-rhodes-pain-mp3.mp3?rlkey=v69cvbfw4xpqvr1nzkzm3nisl&raw=1",
+      "videos": []
+    }
+  ]
+}
