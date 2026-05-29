@@ -17,6 +17,14 @@
   },
   "tracks": [
     {
+      "title": "Cigarette Halo",
+      "artist": "Harlan Rhodes",
+      "album": "Ashes and Rain",
+      "cover": "https://raw.githubusercontent.com/stevep999/harlan-rhodes/main/images/covers/harlan-rhodes-cigarette-halo-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/x7qqtykpvziwg2v4ozayh/harlan-rhodes-cigarette-halo-mp3.mp3?rlkey=908gauwb870me9gsnjhjvzetf&raw=1",
+      "videos": []
+    },
+    {
       "title": "PAIN",
       "artist": "Harlan Rhodes",
       "album": "Ashes and Rain",
