@@ -17,7 +17,8 @@
     "includeOnRadio": true,
     "includeOnHomepage": false,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "harlan-rhodes-pain",
@@ -43,6 +44,7 @@
     "includeOnRadio": true,
     "includeOnHomepage": true,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   }
 ]
